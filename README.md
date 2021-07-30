@@ -32,7 +32,28 @@ expenses. PayPal keeps the exact amount undisclosed. (Wikipedia)
 -- Initially, the intended customer was anyone who wanted to split bills, so college students and older. Recently, Venmo has added debit and credit card services. The payments that users make for these cards comes directly from their Venmo balance. This, while still an emerging part of the company, has the potential to disrupt operations of many large financial banks. While other apps also accomplish what Venmo does, Venmo has a social media aspect to it as well which makes it very attractive. If person A gives money to Person B, then Persons C,D,E... anyone actually, can see that transaction and what it was for. So, this social media aspect to the company is what makes the app engaging over other options. (Atlantic)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
--- Venmo, for basiclaly 95% of its current services, is entirely mobile (ios and android), so its main technology that it uses is data encyrption technolgy to ensure security of transactions as well as to block unauthorized ones. (Atlantic)
+-- Venmo, for basiclaly 95% of its current services, is entirely mobile (ios and android), so its main technology that it uses is data encyrption technolgy to ensure security of transactions as well as to block unauthorized ones. The TechStack they use is:
+jQuery - A JavaScript library.
+PHP- A general-purpose scripting language
+Nginx - open source web server
+JavaScript -, interpreted, object-oriented language
+Python - an interpreted, high-level, general-purpose programming language.
+Java - class-based, object-oriented, language
+Ruby – A dynamic, interpreted, open source programming language
+React - A JavaScript library for building UIs
+TypeScript –A superset of JavaScript
+C# -, general-purpose, object-oriented programming language built for .NET
+Go - An open source programming language
+Swift - An programming language for Cocoa / Cocoa Touch.
+Objective-C - The primary programming language for building software on OS X and iOS
+C++ - general-purpose programming language
+CSS - Cascading Style Sheets describes how HTML elements are displayed.
+Moment.js - JavaScript date library
+C – Widely used programming language
+Perl - Widely used programming language
+Lua - Embeddable scripting language
+PowerShell – Microsoft Command Line Interface
+Apache Thrift - Software to create services across programming languages (Atlantic)
 
 
 ## Landscape:
